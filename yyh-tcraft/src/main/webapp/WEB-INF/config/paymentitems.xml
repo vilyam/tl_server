@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<paymentitems>
+	<paymentitem>
+		<product_code>7</product_code>
+		<price>30</price>
+		<price_other>0</price_other>
+		<value>10</value>
+		<product_name>10 кристаллов</product_name>
+		<description>10 кристаллов</description>
+		<photo_url></photo_url>
+	</paymentitem>
+	<paymentitem>
+		<product_code>8</product_code>
+		<price>85</price>
+		<price_other>0</price_other>
+		<value>30</value>
+		<product_name>30 кристаллов</product_name>
+		<description>30 кристаллов</description>
+		<photo_url></photo_url>
+	</paymentitem>
+	<paymentitem>
+		<product_code>9</product_code>
+		<price>270</price>
+		<price_other>0</price_other>
+		<value>100</value>
+		<product_name>100 кристаллов</product_name>
+		<description>100 кристаллов</description>
+		<photo_url></photo_url>
+	</paymentitem>
+	<paymentitem>
+		<product_code>10</product_code>
+		<price>765</price>
+		<price_other>0</price_other>
+		<value>300</value>
+		<product_name>300 кристаллов</product_name>
+		<description>300 кристаллов</description>
+		<photo_url></photo_url>
+	</paymentitem>
+</paymentitems>

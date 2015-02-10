@@ -1,0 +1,18 @@
+<level>
+  <metaData>
+    <name>20</name>
+    <number>10</number>
+    <parent>9</parent>
+    <task>124=60</task>
+    <thresholds>125,150</thresholds>
+    <moves_count>20</moves_count>
+    <is_secret>0</is_secret>
+    <description/>
+    <pet>
+      <id>2</id>
+      <threshold>3</threshold>
+    </pet>
+    <file_name>20.xml</file_name>
+  </metaData>
+  <levelData>{ "id":0, "numberOfTypes":6, "sizeX":8, "sizeY":8, "pieceChances": [ { "id":1, "type":101, "limit":11, "isUserChance":true, "upgrade":0}, { "id":2, "type":102, "limit":11, "isUserChance":true, "upgrade":0}, { "id":4, "type":104, "limit":11, "isUserChance":true, "upgrade":0}, { "id":6, "type":106, "limit":12, "isUserChance":true, "upgrade":0}, { "id":7, "type":125, "limit":25, "isUserChance":true, "upgrade":0}, { "id":8, "type":124, "limit":30, "isUserChance":true, "upgrade":0}], "startMoves":20, "addMoves":0, "fallingSurface":0, "bonuses": [{"name": "BOMB", "power": "0", "available":0},{"name": "BOMB_X", "power": "2", "available":1},{"name": "HIPERCUB", "power": "2", "available":1},{"name": "SUNSHINE", "power": "2", "available":1},{"name": "SHUFFLE", "power": "2", "available":1},{"name": "BLACK_V2", "power": "-1", "available":1},{"name": "BLACK_V3", "power": "-2", "available":1},{"name": "BLUE_V2", "power": "-1", "available":1},{"name": "BLUE_V3", "power": "-1", "available":1},{"name": "GREEN_V2", "power": "1", "available":1},{"name": "GREEN_V3", "power": "2", "available":1},{"name": "RED_V2", "power": "-1", "available":1},{"name": "RED_V3", "power": "-1", "available":1},{"name": "WHITE_V2", "power": "1", "available":1},{"name": "WHITE_V3", "power": "-1", "available":1}], "quests": { "star1quests": [{"id":2, "type":101, "target":124, "limit":60}], "star2goal":125, "star2quests": [], "star3goal":150, "star3quests": [], "chestGoal":1, "chestArmor":1, "chestType":0}, "areas": [{"id":1, "x":3, "y":7, "w":2, "h":1},{"id":2, "x":3, "y":0, "w":2, "h":1},{"id":3, "x":0, "y":3, "w":1, "h":2},{"id":4, "x":7, "y":3, "w":1, "h":2}], "tutorial": [{"linkage":"tutorial_21","showIf":"level_start","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"},{"linkage":"tutorial_38","showIf":"level_start_second","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"},{"linkage":"tutorial_22","showIf":"addMoves","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"},{"linkage":"tutorial_23","showIf":"level_complete_star_1","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"},{"linkage":"tutorial_24","showIf":"level_complete_star_3","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"}], "baseGameField": [[0,0,0,0,0,0,124,124],[0,0,0,0,0,0,0,124],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,124],[0,0,0,0,0,0,124,124]], "leyers": []}</levelData>
+</level>

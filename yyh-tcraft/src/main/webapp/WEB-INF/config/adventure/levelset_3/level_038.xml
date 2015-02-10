@@ -1,0 +1,19 @@
+<level>
+  <metaData>
+    <name>35</name>
+    <number>8</number>
+    <parent>7</parent>
+    <task>114=4,102=80,104=80</task>
+    <thresholds>150,200</thresholds>
+    <moves_count>34</moves_count>
+    <is_secret>0</is_secret>
+    <description/>
+    <tool_set>0</tool_set>
+    <recomend_tools>2,15;</recomend_tools>
+    <boost_set>1</boost_set>
+    <recomend_boosts/>
+    <pets_list>1,3</pets_list>
+    <file_name>35.xml</file_name>
+  </metaData>
+  <levelData>{ "id":0, "numberOfTypes":4, "sizeX":6, "sizeY":8, "pieceChances": [ { "id":2, "type":102, "limit":25, "isUserChance":false, "upgrade":0}, { "id":4, "type":104, "limit":25, "isUserChance":false, "upgrade":0}, { "id":5, "type":112, "limit":25, "isUserChance":false, "upgrade":0}, { "id":6, "type":106, "limit":25, "isUserChance":false, "upgrade":0}], "startMoves":34, "addMoves":0, "fallingSurface":0, "bonuses": [{"name": "BOMB", "power": "0", "available":0},{"name": "BOMB_X", "power": "2", "available":1},{"name": "HIPERCUB", "power": "2", "available":1},{"name": "SUNSHINE", "power": "2", "available":1},{"name": "SHUFFLE", "power": "2", "available":1},{"name": "BLACK_V2", "power": "-1", "available":1},{"name": "BLACK_V3", "power": "-2", "available":1},{"name": "BLUE_V2", "power": "-1", "available":1},{"name": "BLUE_V3", "power": "-1", "available":1},{"name": "GREEN_V2", "power": "1", "available":1},{"name": "GREEN_V3", "power": "2", "available":1},{"name": "RED_V2", "power": "-1", "available":1},{"name": "RED_V3", "power": "-1", "available":1},{"name": "WHITE_V2", "power": "1", "available":1},{"name": "WHITE_V3", "power": "-1", "available":1}], "pets": [{"name": "6", "power": "1", "limit": "30", "available":1}], "quests": { "star1quests": [{"id":1, "type":101, "target":114, "limit":4},{"id":2, "type":101, "target":102, "limit":80},{"id":3, "type":101, "target":104, "limit":80}], "star2goal":150, "star2quests": [], "star3goal":200, "star3quests": [], "chestGoal":1, "chestArmor":1, "chestType":0}, "areas": [{"id":1, "x":0, "y":2, "w":1, "h":4},{"id":2, "x":5, "y":2, "w":1, "h":4}], "baseGameField": [[0,0,0,0,0,0,0,0],[0,112,0,0,0,0,0,112],[0,0,0,112,0,0,0,0],[0,0,0,0,0,0,0,0],[112,0,0,0,0,112,0,0],[0,0,0,0,0,0,0,0]], "leyers": []}</levelData>
+</level>

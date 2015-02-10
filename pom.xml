@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.c17.yyh</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>yyh-parent</artifactId>
+    <name>YYH Project</name>
+    <packaging>pom</packaging>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	    <spring.version>4.1.1.RELEASE</spring.version>
+    </properties>
+
+    <repositories>
+        <repository>
+            <id>JBoss-Maven-Repository</id>
+            <name>JBoss Maven Repository</name>
+            <url>http://repository.jboss.org/nexus/content/groups/public-jboss/</url>
+        </repository>
+    </repositories>
+    
+    <modules>
+        <module>yyh-core</module>
+        <module>yyh-tcraft</module>
+    </modules>
+
+    <build>
+        <!--<directory>build</directory>-->
+        <!--<outputDirectory>build/classes/billing</outputDirectory>-->
+        <!--<finalName>${artifactId}</finalName>-->
+        <!--<sourceDirectory>src</sourceDirectory>        -->
+
+        <plugins>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <debug>true</debug>
+                    <optimize>true</optimize>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                    <encoding>UTF-8</encoding>
+                    <sourceEncoding>UTF-8</sourceEncoding>
+                    <showDeprecation>true</showDeprecation>
+                    <showWarnings>true</showWarnings>
+                </configuration>
+            </plugin>
+        </plugins>
+
+    </build>
+
+</project>

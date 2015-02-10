@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prices>
+    <price id="110" type="LIFE" index="index1" price="6" currency="CRYSTALS">
+        <item store_item="1" value="5"/>
+    </price>
+
+    <price id="120" type="MONEY" index="0" price="10" currency="CRYSTALS">
+        <item store_item="2" value="1000"/>
+    </price>
+    <price id="121" type="MONEY" index="1" price="28" currency="CRYSTALS">
+        <item store_item="2" value="3000"/>
+    </price>
+    <price id="122" type="MONEY" index="2" price="45" currency="CRYSTALS">
+        <item store_item="2" value="5000"/>
+    </price>
+    <price id="123" type="MONEY" index="3" price="85" currency="CRYSTALS">
+        <item store_item="2" value="10000"/>
+    </price>
+    
+    <price id="130" type="ROADBLOCK" index="0" price="10" currency="CRYSTALS">
+        <item store_item="3" value="0"/>
+    </price>
+    <price id="131" type="ROADBLOCK" index="1" price="7" currency="CRYSTALS">
+        <item store_item="3" value="1"/>
+    </price>
+    <price id="132" type="ROADBLOCK" index="2" price="4" currency="CRYSTALS">
+        <item store_item="3" value="2"/>
+    </price>
+
+    <price id="140" type="SECRET_LEVEL" index="0" price="400" currency="MONEY">
+        <item store_item="4" value="1"/>
+    </price>
+
+    <price id="150" type="MOVES" index="0" price="8" currency="CRYSTALS">
+        <item store_item="5" value="1"/>
+    </price>
+
+    <price id="1000" type="pack" index="test0" price="15" currency="CRYSTALS">
+        <item store_item="6" inner_id="2" value="2"/>
+        <item store_item="6" inner_id="3" value="3"/>
+        <item store_item="6" inner_id="4" value="3"/>
+    </price>
+    <price id="1001" type="pack" index="test1" price="20" currency="CRYSTALS">
+        <item store_item="6" inner_id="2" value="2"/>
+        <item store_item="6" inner_id="3" value="3"/>
+        <item store_item="6" inner_id="4" value="3"/>
+    </price>
+    <price id="1002" type="pack" index="test2" price="20" currency="CRYSTALS">
+        <item store_item="5" inner_id="2" value="2"/>
+        <item store_item="6" inner_id="3" value="3"/>
+        <item store_item="6" inner_id="4" value="3"/>
+    </price>
+</prices>

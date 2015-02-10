@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<pets>
+  <pet id="1" name="rabbit">
+    <price value="3" currency="CRYSTALS"/>
+  </pet>
+  <pet id="2" name="pig">
+    <price value="6" currency="CRYSTALS"/>
+  </pet>
+  <pet id="3" name="mole">
+  </pet>
+  <pet id="4" name="dog">
+  </pet>
+  <pet id="5" name="pony">
+  </pet>
+  <pet id="6" name="cactus">
+  </pet>
+  <pet id="7" name="pet_7">
+  </pet>
+  <pet id="8" name="pet_8">
+  </pet>
+  <pet id="9" name="pet_9">
+  </pet>
+  <pet id="10" name="pet_10">
+  </pet>
+  <pet id="11" name="pet_11">
+  </pet>   
+</pets>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<notifications>
+    <notification>
+        <id>1</id>
+        <startTime>04-07-2014 12:30</startTime>
+        <message>Типа тест</message>
+    </notification>
+</notifications>

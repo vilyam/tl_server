@@ -1,0 +1,23 @@
+<level>
+  <metaData>
+    <name>22</name>
+    <number>12</number>
+    <parent>11</parent>
+    <task>103=36</task>
+    <thresholds>200,300</thresholds>
+    <moves_count>14</moves_count>
+    <is_secret>0</is_secret>
+    <description/>
+    <tool_set>0</tool_set>
+    <recomend_tools/>
+    <boost_set>1</boost_set>
+    <recomend_boosts/>
+    <pets_list>2</pets_list>
+    <treasure>
+      <id>8</id>
+      <threshold>1</threshold>
+    </treasure>
+    <file_name>22.xml</file_name>
+  </metaData>
+  <levelData>{ "id":0, "numberOfTypes":5, "sizeX":7, "sizeY":8, "pieceChances": [ { "id":1, "type":101, "limit":20, "isUserChance":false, "upgrade":0}, { "id":2, "type":102, "limit":20, "isUserChance":false, "upgrade":0}, { "id":3, "type":103, "limit":20, "isUserChance":false, "upgrade":0}, { "id":4, "type":104, "limit":20, "isUserChance":false, "upgrade":0}, { "id":7, "type":125, "limit":20, "isUserChance":false, "upgrade":0}], "startMoves":14, "addMoves":0, "fallingSurface":0, "bonuses": [{"name": "BOMB", "power": "0", "available":0},{"name": "BOMB_X", "power": "2", "available":1},{"name": "HIPERCUB", "power": "2", "available":1},{"name": "SUNSHINE", "power": "2", "available":1},{"name": "SHUFFLE", "power": "2", "available":1},{"name": "BLACK_V2", "power": "-1", "available":1},{"name": "BLACK_V3", "power": "-2", "available":1},{"name": "BLUE_V2", "power": "-1", "available":1},{"name": "BLUE_V3", "power": "-1", "available":1},{"name": "GREEN_V2", "power": "1", "available":1},{"name": "GREEN_V3", "power": "2", "available":1},{"name": "RED_V2", "power": "-1", "available":1},{"name": "RED_V3", "power": "-1", "available":1},{"name": "WHITE_V2", "power": "1", "available":1},{"name": "WHITE_V3", "power": "-1", "available":1}], "pets": [{"name": "6", "power": "1", "limit": "30", "available":1}], "quests": { "star1quests": [{"id":8, "type":101, "target":103, "limit":36}], "star2goal":200, "star2quests": [], "star3goal":300, "star3quests": [], "chestGoal":1, "chestArmor":2, "chestType":616}, "baseGameField": [[0,0,0,0,0,281,202,204],[0,0,0,0,107,205,202,201],[0,0,0,0,283,203,201,201],[0,0,0,0,281,204,203,206],[0,0,0,0,283,202,201,201],[0,0,0,0,107,205,202,203],[0,0,0,0,0,281,201,204]], "leyers": [{"gems":[[202],[201],[206],[616],[206],[201],[202]]},{"gems":[[201],[204],[207],[208],[207],[204],[201]]}]}</levelData>
+</level>

@@ -1,0 +1,27 @@
+<level>
+  <metaData>
+    <name>F</name>
+    <number>20</number>
+    <parent>4</parent>
+    <task>430=4,414=10</task>
+    <thresholds>125,150</thresholds>
+    <moves_count>30</moves_count>
+    <is_secret>0</is_secret>
+    <description/>
+    <tool_set>0</tool_set>
+    <recomend_tools>1,15;</recomend_tools>
+    <boost_set>0</boost_set>
+    <recomend_boosts>102</recomend_boosts>
+    <pets_list>2,3</pets_list>
+    <treasure>
+      <id>24</id>
+      <threshold>2</threshold>
+    </treasure>
+    <secret>
+      <stars>35</stars>
+      <monets>500</monets>
+    </secret>
+    <file_name>F.xml</file_name>
+  </metaData>
+  <levelData>{ "id":0, "numberOfTypes":4, "sizeX":9, "sizeY":9, "pieceChances": [ { "id":1, "type":101, "limit":25, "isUserChance":false, "upgrade":0}, { "id":4, "type":126, "limit":25, "isUserChance":false, "upgrade":0}, { "id":5, "type":103, "limit":25, "isUserChance":false, "upgrade":0}, { "id":6, "type":106, "limit":25, "isUserChance":false, "upgrade":0}], "startMoves":30, "addMoves":0, "fallingSurface":0, "bonuses": [{"name": "BOMB", "power": "0", "available":0},{"name": "BOMB_X", "power": "-1", "available":1},{"name": "HIPERCUB", "power": "-1", "available":1},{"name": "SUNSHINE", "power": "-1", "available":1},{"name": "SHUFFLE", "power": "2", "available":1},{"name": "BLACK_V2", "power": "-1", "available":1},{"name": "BLACK_V3", "power": "-2", "available":1},{"name": "BLUE_V2", "power": "-1", "available":1},{"name": "BLUE_V3", "power": "-1", "available":1},{"name": "GREEN_V2", "power": "1", "available":1},{"name": "GREEN_V3", "power": "2", "available":1},{"name": "RED_V2", "power": "-1", "available":1},{"name": "RED_V3", "power": "-1", "available":1},{"name": "WHITE_V2", "power": "1", "available":1},{"name": "WHITE_V3", "power": "-1", "available":1}], "pets": [{"name": "6", "power": "1", "limit": "30", "available":1}], "quests": { "star1quests": [{"id":1, "type":101, "target":430, "limit":4},{"id":2, "type":104, "target":414, "limit":10}], "star2goal":125, "star2quests": [], "star3goal":150, "star3quests": [], "chestGoal":2, "chestArmor":4, "chestType":613}, "areas": [{"id":2, "x":2, "y":7, "w":5, "h":1},{"id":3, "x":7, "y":0, "w":1, "h":7},{"id":4, "x":7, "y":7, "w":2, "h":2},{"id":5, "x":0, "y":7, "w":2, "h":2},{"id":6, "x":1, "y":0, "w":1, "h":7}], "baseGameField": [[205,206,207,208,420,420,420,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,430],[0,0,0,0,0,0,0,0,430],[0,0,0,0,0,0,0,0,613],[0,0,0,0,0,0,0,0,430],[0,0,0,0,0,0,0,0,430],[0,0,0,0,0,0,0,0,0],[205,206,207,208,420,420,420,0,0]], "leyers": []}</levelData>
+</level>

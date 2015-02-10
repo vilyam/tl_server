@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+	<item id="0" resource="CRYSTALS"/>
+    <item id="1" resource="LIFE"/>
+    <item id="2" resource="MONEY"/>
+    <item id="3" resource="ROAD_BLOCK"/>
+    <item id="4" resource="SECRET_LEVEL"/>
+    <item id="5" resource="MOVES"/>
+    <item id="6" resource="TOOL"/>
+</items>

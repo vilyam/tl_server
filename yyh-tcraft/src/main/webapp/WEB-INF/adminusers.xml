@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+    <user>
+        <login>admin</login>
+        <password>test</password>
+        <level>ADMIN</level>
+    </user>
+</users>

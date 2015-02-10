@@ -1,0 +1,26 @@
+<level>
+  <metaData>
+    <name>36</name>
+    <number>9</number>
+    <parent>8</parent>
+    <task>405=20,103=60</task>
+    <thresholds>125,150</thresholds>
+    <moves_count>33</moves_count>
+    <is_secret>0</is_secret>
+    <description/>
+    <tool_set>0</tool_set>
+    <recomend_tools>2,15;</recomend_tools>
+    <boost_set>0</boost_set>
+    <recomend_boosts>101</recomend_boosts>
+    <pets_list>3</pets_list>
+    <boss>
+      <id>3</id>
+    </boss>
+    <treasure>
+      <id>21</id>
+      <threshold>3</threshold>
+    </treasure>
+    <file_name>36.xml</file_name>
+  </metaData>
+  <levelData>{ "id":0, "numberOfTypes":5, "sizeX":6, "sizeY":8, "pieceChances": [ { "id":1, "type":101, "limit":18, "isUserChance":true, "upgrade":0}, { "id":2, "type":102, "limit":18, "isUserChance":true, "upgrade":0}, { "id":3, "type":103, "limit":20, "isUserChance":true, "upgrade":0}, { "id":4, "type":104, "limit":24, "isUserChance":true, "upgrade":0}, { "id":6, "type":106, "limit":20, "isUserChance":true, "upgrade":0}], "startMoves":33, "addMoves":0, "fallingSurface":0, "bonuses": [{"name": "BOMB", "power": "0", "available":0},{"name": "BOMB_X", "power": "2", "available":1},{"name": "HIPERCUB", "power": "2", "available":1},{"name": "SUNSHINE", "power": "2", "available":1},{"name": "SHUFFLE", "power": "2", "available":1},{"name": "BLACK_V2", "power": "-1", "available":1},{"name": "BLACK_V3", "power": "-2", "available":1},{"name": "BLUE_V2", "power": "-1", "available":1},{"name": "BLUE_V3", "power": "-1", "available":1},{"name": "GREEN_V2", "power": "1", "available":1},{"name": "GREEN_V3", "power": "2", "available":1},{"name": "RED_V2", "power": "-1", "available":1},{"name": "RED_V3", "power": "-1", "available":1},{"name": "WHITE_V2", "power": "1", "available":1},{"name": "WHITE_V3", "power": "-1", "available":1}], "pets": [{"name": "6", "power": "1", "limit": "30", "available":1}], "quests": { "star1quests": [{"id":1, "type":103, "target":405, "limit":20},{"id":2, "type":101, "target":103, "limit":60}], "star2goal":125, "star2quests": [], "star3goal":150, "star3quests": [], "chestGoal":3, "chestArmor":6, "chestType":612}, "tutorial": [{"linkage":"tutorial_33","showIf":"level_start","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"},{"linkage":"tutorial_37","showIf":"level_start_second","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"},{"linkage":"tutorial_34","showIf":"addMoves","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"},{"linkage":"tutorial_35","showIf":"level_complete_star_1","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"},{"linkage":"tutorial_36","showIf":"level_complete_star_3_chest","showIfIndex":"0","actionTyte":"delete","actionTyteIndex":"0","type":"0"}], "baseGameField": [[203,401,201,402,203,403,204,404],[0,202,0,201,0,202,202,204],[0,0,0,0,0,0,204,202],[0,0,0,0,0,206,202,203],[0,0,203,0,202,205,612,204],[401,202,402,202,403,205,205,404]], "leyers": [{"gems":[[204],[207],[205],[205],[207],[204]]},{"gems":[[206],[405],[208],[208],[405],[206]]}]}</levelData>
+</level>

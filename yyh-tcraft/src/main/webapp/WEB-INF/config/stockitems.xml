@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+    <stock 
+    	id="10000" 
+    	name="Первая покупка!" 
+    	type="FIRST_PAYMENT"
+    	price="20" 
+    	currency="REAL" 
+	    message="Успейте! горячие пирожки! скидка 150%!" 
+	    description="только сейчас!" 
+    	startDate="05-7-2014 00:00" 
+    	amountHours="10048" 
+    	startFromFirstLoginDays="0" 
+    	count="10"
+	    photoUrl="">
+            <item store_item="0" value="30"/>
+            <item store_item="6" inner_id="0" value="3"/>
+            <item store_item="6" inner_id="1" value="3"/>
+            <item store_item="6" inner_id="2" value="3"/>
+    </stock>
+    <stock 
+    	id="10001" 
+    	name="Хорошее предложение" 
+    	type="generic" 
+    	price="20" 
+    	currency="CRYSTALS" 
+    	message="Пак инструментов" 
+    	description="" 
+    	startDate="10-07-2014 04:00" 
+    	amountHours="1000" 
+    	startFromFirstLoginDays="0" 
+    	count="0">
+            <item store_item="0" value="30"/>
+            <item store_item="6" inner_id="0" value="1"/>
+            <item store_item="6" inner_id="1" value="2"/>
+            <item store_item="6" inner_id="2" value="3"/>
+    </stock>
+    <stock 
+    	id="10002" 
+    	name="Необычно" 
+    	type="generic" 
+	    price="10" 
+	    currency="CRYSTALS" 
+    	message="Старт-пак" 
+    	description="" 
+	    startDate="10-7-2014 00:00" 
+	    amountHours="48" 
+	    startFromFirstLoginDays="0" 
+	    count="2">
+	        <item store_item="0" value="30"/>
+            <item store_item="6" inner_id="100" value="3"/>
+            <item store_item="6" inner_id="101" value="5"/>
+            <item store_item="6" inner_id="101" value="5"/>
+    </stock>
+</stocks>

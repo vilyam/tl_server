@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><collections>
+    <collection>
+        <id>1</id>
+        <name>collection_1</name>
+        <description>Collection</description>
+        <type>0</type>
+        <award_string>{&quot;money&quot;:1000, &quot;tools&quot;:[], &quot;pet&quot;:0}</award_string>
+        <treasures>1,2,3,4,5</treasures>
+    </collection>
+    <collection>
+        <id>2</id>
+        <name>collection_2</name>
+        <description>Collection</description>
+        <type>0</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;0&quot;,&quot;count&quot;:3}]}</award_string>
+        <treasures>6,7,8,9,10</treasures>
+    </collection>
+    <collection>
+        <id>3</id>
+        <name>collection_3</name>
+        <description>Collection</description>
+        <type>1</type>
+        <award_string>{&quot;money&quot;:2000, &quot;tools&quot;:[], &quot;pet&quot;:1}</award_string>
+        <treasures>11,12,13,14,15</treasures>
+    </collection>
+    <collection>
+        <id>4</id>
+        <name>collection_4</name>
+        <description>Collection</description>
+        <type>0</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;2&quot;,&quot;count&quot;:3}]}</award_string>
+        <treasures>16,17,18,19,20</treasures>
+    </collection>
+    <collection>
+        <id>5</id>
+        <name>collection_5</name>
+        <description>Collection</description>
+        <type>1</type>
+        <award_string>{&quot;money&quot;:3000, &quot;tools&quot;:[]}</award_string>
+        <treasures>21,22,23,24,25</treasures>
+    </collection>
+    <collection>
+        <id>6</id>
+        <name>collection_6</name>
+        <description>Collection</description>
+        <type>0</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;1&quot;,&quot;count&quot;:4}]}</award_string>
+        <treasures>26,27,28,29,30</treasures>
+    </collection>
+    <collection>
+        <id>7</id>
+        <name>collection_7</name>
+        <description>Collection</description>
+        <type>1</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;2&quot;,&quot;count&quot;:4}]}</award_string>
+        <treasures>31,32,33,34,35</treasures>
+    </collection>
+    <collection>
+        <id>8</id>
+        <name>collection_8</name>
+        <description>Collection</description>
+        <type>0</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;3&quot;,&quot;count&quot;:4}]}</award_string>
+        <treasures>36,37,38,39,40</treasures>
+    </collection>
+    <collection>
+        <id>9</id>
+        <name>collection_9</name>
+        <description>Collection</description>
+        <type>1</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;0&quot;,&quot;count&quot;:5}]}</award_string>
+        <treasures>41,42,43,44,45</treasures>
+    </collection>
+    <collection>
+        <id>10</id>
+        <name>collection_10</name>
+        <description>Collection</description>
+        <type>0</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;2&quot;,&quot;count&quot;:3}]}</award_string>
+        <treasures>46,47,48,49,50</treasures>
+    </collection>
+    <collection>
+        <id>11</id>
+        <name>collection_11</name>
+        <description>Collection</description>
+        <type>1</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;1&quot;,&quot;count&quot;:3}]}</award_string>
+        <treasures>51,52,53,54,55</treasures>
+    </collection>
+    <collection>
+        <id>12</id>
+        <name>collection_12</name>
+        <description>Collection</description>
+        <type>0</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;3&quot;,&quot;count&quot;:3}]}</award_string>
+        <treasures>56,57,58,59,60</treasures>
+    </collection>
+    <collection>
+        <id>13</id>
+        <name>collection_13</name>
+        <description>Collection</description>
+        <type>1</type>
+        <award_string>{&quot;money&quot;:0, &quot;tools&quot;:[{&quot;id&quot;:&quot;4&quot;,&quot;count&quot;:5}]}</award_string>
+        <treasures>61,62,63,64,65</treasures>
+    </collection>
+    <collection>
+        <id>14</id>
+        <name>collection_14</name>
+        <description>Collection</description>
+        <type>0</type>
+        <award_string>{&quot;money&quot;:3000, &quot;tools&quot;:[]}</award_string>
+        <treasures>66,67,68,69,70</treasures>
+    </collection>
+    <collection>
+        <id>15</id>
+        <name>collection_15</name>
+        <description>Collection</description>
+        <type>1</type>
+        <award_string>{&quot;money&quot;:3000, &quot;tools&quot;:[]}</award_string>
+        <treasures>71,72,73,74,75</treasures>
+    </collection>
+</collections>

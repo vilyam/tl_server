@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<toolitems>
+    <toolitem id="0" name="shovel" start_from_level="0" default_count="1">
+        <loading time="14400" />
+        <price id="0" count="1" value="3" currency="CRYSTALS"/>
+        <price id="1" count="3" value="6" currency="CRYSTALS"/>
+    </toolitem>
+    <toolitem id="1" name="tractor" start_from_level="0" default_count="1">
+        <price id="0" count="1" value="7" currency="CRYSTALS"/>
+        <price id="1" count="3" value="15" currency="CRYSTALS"/>
+    </toolitem>
+    <toolitem id="2" name="magnet" start_from_level="0" default_count="1">
+        <price id="0" count="1" value="8" currency="CRYSTALS"/>
+        <price id="1" count="3" value="17" currency="CRYSTALS"/>
+    </toolitem>
+    <toolitem id="3" name="firework" start_from_level="0" default_count="1">
+        <price id="0" count="1" value="5" currency="CRYSTALS"/>
+        <price id="1" count="3" value="12" currency="CRYSTALS"/>
+    </toolitem>
+    <toolitem id="4" name="shuffle" start_from_level="0" default_count="1">
+        <price id="0" count="1" value="400" currency="MONEY"/>
+        <price id="1" count="3" value="900" currency="MONEY"/>
+    </toolitem>
+    <toolitem id="100" name="plus5" start_from_level="0" default_count="1">
+        <price id="0" count="1" value="5" currency="CRYSTALS"/>
+    </toolitem>
+    <toolitem id="101" name="gold_pot" start_from_level="0" default_count="1">
+        <price id="0" count="1" value="300" currency="MONEY"/>
+    </toolitem>
+    <toolitem id="102" name="star_mode" start_from_level="0" default_count="1">
+        <price id="0" count="1" value="500" currency="MONEY"/>
+    </toolitem>
+
+    <toolitem id="5" name="stardust" start_from_level="0" default_count="1"></toolitem>
+    <toolitem id="6" name="uni_tool1" start_from_level="0" default_count="0"></toolitem>
+    <toolitem id="7" name="uni_tool2" start_from_level="0" default_count="0"></toolitem>
+
+</toolitems>
